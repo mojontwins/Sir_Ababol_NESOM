@@ -1,0 +1,15 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                                 'cpc_Chars8.sym'
+
+
+
+
+Local Module Symbols:
+
+
+
+Global Module Symbols:
+
+CPC_CHARS8			= 00000001
+FIRST_CHAR8			= 00000000
+

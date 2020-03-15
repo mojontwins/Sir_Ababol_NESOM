@@ -1,0 +1,40 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                               'cpc_Uncrunch.sym'
+
+
+
+
+Local Module Symbols:
+
+CHRCODE				= 000000B5
+DATOS_INT			= 0000013E
+DORLE				= 000000CD
+DORLEI				= 000000CF
+ELZPB				= 000000E6
+ESC				= 0000007B
+ESCB0				= 00000062
+ESCB1				= 00000076
+FIN				= 0000012F
+GB1				= 00000117
+GET_BIT				= 00000104
+GET_BITS			= 0000010C
+GET_GAMMA			= 0000011B
+GG1				= 0000011F
+GG2				= 00000129
+LONGRLE				= 000000A7
+LOOP_U				= 00000075
+LZ77_0				= 000000DD
+LZ77_0_2			= 000000EB
+MG				= 0000011D
+MG1				= 000000A2
+MG21				= 000000E0
+NEWESC				= 0000005E
+NOESC				= 0000006C
+PUCRUNCH			= 00000012
+RLET				= 000000B9
+
+
+Global Module Symbols:
+
+CPC_UNCRUNCH			= 00000000
+

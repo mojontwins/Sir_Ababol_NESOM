@@ -1,0 +1,18 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                           'cpc_PutSpTileMap.sym'
+
+
+
+
+Local Module Symbols:
+
+BUCLE_PASOS_ALTOW		= 00000044
+BUCLE_PASOS_ANCHOW		= 00000041
+PASOS_ALTO_XW			= 00000042
+PASOS_ANCHO_XW			= 00000040
+
+
+Global Module Symbols:
+
+CPC_PUTSPTILEMAP		= 00000000
+

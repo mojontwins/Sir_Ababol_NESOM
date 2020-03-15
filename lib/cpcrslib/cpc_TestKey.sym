@@ -1,0 +1,15 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                                'cpc_TestKey.sym'
+
+
+
+
+Local Module Symbols:
+
+PULSADO				= 00000017
+
+
+Global Module Symbols:
+
+CPC_TESTKEY			= 00000000
+

@@ -1,0 +1,18 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                              'cpc_PutSprite.sym'
+
+
+
+
+Local Module Symbols:
+
+WIDTH0				= 00000013
+WIDTH1				= 00000013
+WIDTH2				= 00000095
+WIDTH3				= 000000A1
+
+
+Global Module Symbols:
+
+CPC_PUTSPRITE			= 00000000
+

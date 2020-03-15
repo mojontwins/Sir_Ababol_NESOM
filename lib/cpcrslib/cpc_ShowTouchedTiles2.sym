@@ -1,0 +1,23 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                      'cpc_ShowTouchedTiles2.sym'
+
+
+
+
+Local Module Symbols:
+
+ANCHO0				= 0000004E
+BUCLE_CPC_SHOWTOUCHEDTILES	= 00000004
+CONTKAKA			= 0000006A
+LOOP_ALTO_2			= 0000004E
+LOOP_ANCHO_2			= 0000004F
+POSICIONAR_PANTALLA		= 0000003C
+POSICIONAR_SUPERBUFFER		= 0000002A
+TRANSF_BLOQUE_SB_PANTALLA	= 0000004B
+YEP				= 00000067
+
+
+Global Module Symbols:
+
+CPC_SHOWTOUCHEDTILES2		= 00000000
+

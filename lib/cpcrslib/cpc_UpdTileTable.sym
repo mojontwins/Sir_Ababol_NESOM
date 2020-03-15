@@ -1,0 +1,18 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                           'cpc_UpdTileTable.sym'
+
+
+
+
+Local Module Symbols:
+
+BUCLE_RECORRIDO_TILES_TOCADOS	= 00000003
+COMPROBAR_SEGUNDO_BYTE		= 00000012
+CONTKAKA			= 00000020
+INCORPORAR_TILE			= 0000001A
+
+
+Global Module Symbols:
+
+CPC_UPDTILETABLE		= 00000000
+

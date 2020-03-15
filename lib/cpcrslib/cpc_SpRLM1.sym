@@ -1,0 +1,16 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                                 'cpc_SpRLM1.sym'
+
+
+
+
+Local Module Symbols:
+
+MULT0				= 00000005
+SCROLL_LINE_0			= 0000000E
+
+
+Global Module Symbols:
+
+CPC_SPRLM1			= 00000000
+

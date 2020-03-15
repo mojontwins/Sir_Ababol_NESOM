@@ -1,0 +1,20 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                   'cpc_PutTrSpriteTileMap2b.sym'
+
+
+
+
+Local Module Symbols:
+
+ANCHO_2X			= 00000021
+LOOP_ALTO_MAP_SBUFFERX		= 00000025
+LOOP_ANCHO_MAP_SBUFFERX		= 00000029
+PON_BUFFER_DER_2X		= 00000045
+SIG_PIXN_DER_2X			= 00000037
+SP_BUFFER_MASKX			= 0000001F
+
+
+Global Module Symbols:
+
+CPC_PUTTRSPRITETILEMAP2B	= 00000000
+

@@ -1,0 +1,30 @@
+# Creates the full tileset to be preloaded at the main binary.
+# Exports a set of tilemaps to be compressed as per-level basis.
+
+reset patterns
+reset tmaps
+pal pal.png
+
+# Font, 64 patterns.
+
+open font.png
+charset 0, 0, 32, 2
+
+# Metatileset, level 0
+
+open ts0.png
+defaultink 7
+metatileset 0, 0, 16, 3, 2, 2
+output tmaps ../bin/level0/ts.tilemaps.bin
+reset tmaps
+
+# Nametable
+open frame.png
+nametable
+output nametable ../bin/frame.bin
+
+stats
+
+# output ts
+# fillto 2048
+output patterns ../bin/ts.bin

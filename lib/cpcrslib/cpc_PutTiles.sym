@@ -1,0 +1,18 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                               'cpc_PutTiles.sym'
+
+
+
+
+Local Module Symbols:
+
+BUCLE_ALTO			= 00000015
+BUCLE_ANCHO			= 00000018
+TMP				= 00000034
+
+
+Global Module Symbols:
+
+CAPTURA				= 00000035
+CPC_PUTTILES			= 00000000
+

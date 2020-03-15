@@ -1,0 +1,17 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                          'cpc_TouchTileSpXY.sym'
+
+
+
+
+Local Module Symbols:
+
+BUCLE_RECORRIDO_TILES_TOCADOS	= 0000001B
+COMPROBAR_SEGUNDO_BYTE		= 0000002A
+INCORPORAR_TILE			= 00000032
+
+
+Global Module Symbols:
+
+CPC_TOUCHTILESPXY		= 00000000
+

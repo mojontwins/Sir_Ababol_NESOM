@@ -1,0 +1,19 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                                 'cpc_GetSp0.sym'
+
+
+
+
+Local Module Symbols:
+
+LOOP_ALTO_2X			= 00000004
+LOOP_ANCHO_2X			= 00000006
+SALTO_LINEAX			= 00000011
+
+
+Global Module Symbols:
+
+ANCHOX				= 00000004
+CPC_GETSP0			= 00000000
+SUMA_SIGUIENTE_LINEAX		= 00000011
+

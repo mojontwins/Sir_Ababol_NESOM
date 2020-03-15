@@ -1,0 +1,27 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                       'cpc_PutSpTileMap8x24.sym'
+
+
+
+
+Local Module Symbols:
+
+ADIOS				= 0000008C
+BUCLE_PASOS_ALTOW		= 00000093
+BUCLE_PASOS_ANCHOW		= 00000090
+DISTINTOS			= 0000006E
+MARCA_TILES			= 0000008E
+NOINC1				= 0000003A
+NOINC2				= 00000085
+PASOS_ALTO_XW			= 00000091
+PASOS_ANCHO_XW			= 0000008E
+SET2A				= 00000018
+SET2B				= 00000052
+SETA				= 0000001A
+SETB				= 00000054
+
+
+Global Module Symbols:
+
+CPC_PUTSPTILEMAP8X24		= 00000000
+

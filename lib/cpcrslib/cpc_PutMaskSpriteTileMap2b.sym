@@ -1,0 +1,21 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                 'cpc_PutMaskSpriteTileMap2b.sym'
+
+
+
+
+Local Module Symbols:
+
+ANCHO_2				= 00000021
+ANCHO_SPRITE			= 00000025
+LOOP_ALTO_MAP_SBUFFER		= 00000025
+LOOP_ANCHO_MAP_SBUFFER		= 00000029
+PASA_BLOQUE_A_SBUFFER		= 0000000B
+SP_BUFFER_MASK			= 0000001F
+TRANSFERIR_SPRITE		= 0000000B
+
+
+Global Module Symbols:
+
+CPC_PUTMASKSPRITETILEMAP2B	= 00000000
+

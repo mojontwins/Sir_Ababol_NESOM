@@ -1,0 +1,26 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                            'cpc_ShowTileMap.sym'
+
+
+
+
+Local Module Symbols:
+
+BUCLE_DIBUJADO_FONDO		= 00000029
+CONTADOR_TILES			= 00000067
+CONTADOR_TILES2			= 00000068
+CPC_PUTSP			= 0000007E
+INCREMENTO2			= 0000005A
+LOOP_ALTO_2			= 00000080
+LOOP_ALTO_MAP_SBUFFER		= 00000070
+LOOP_ANCHO_MAP_SBUFFER		= 00000070
+SIG_LINEA_2			= 00000097
+SOLOCOPIA			= 00000015
+TRANSFERIR_MAP_SBUFFER		= 0000006A
+TRANSFERIR_PANTALLA_A_SUPERBUFFER	= 00000022
+
+
+Global Module Symbols:
+
+CPC_SHOWTILEMAP			= 00000000
+

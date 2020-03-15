@@ -1,0 +1,17 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                          'cpc_PutMaskSp4x16.sym'
+
+
+
+
+Local Module Symbols:
+
+LOOP_ALTO_MASK_4X16		= 00000017
+LOOP_ANCHO_MASK_4X16		= 00000017
+SUMA_SIGUIENTE_LINEA_MASK_4X16	= 00000038
+
+
+Global Module Symbols:
+
+CPC_PUTMASKSP4X16		= 00000000
+

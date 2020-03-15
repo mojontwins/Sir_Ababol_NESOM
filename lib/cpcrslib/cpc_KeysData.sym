@@ -1,0 +1,31 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                               'cpc_KeysData.sym'
+
+
+
+
+Local Module Symbols:
+
+KEYMAP0				= 00000000
+TABLA_TECLAS0			= 0000000C
+TECLA_0				= 0000000A
+TECLA_00_X			= 00000014
+TECLA_01_X			= 00000016
+TECLA_02_X			= 00000018
+TECLA_03_X			= 0000001A
+TECLA_04_X			= 0000001C
+TECLA_05_X			= 0000001E
+TECLA_06_X			= 00000020
+TECLA_07_X			= 00000022
+TECLA_0_X			= 0000000C
+TECLA_1_X			= 0000000E
+TECLA_2_X			= 00000010
+TECLA_3_X			= 00000012
+
+
+Global Module Symbols:
+
+CPC_KEYSDATA			= 00000000
+KEYMAP				= 00000000
+TABLA_TECLAS			= 0000000C
+

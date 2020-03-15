@@ -1,0 +1,30 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                                  'cpc_UnExo.sym'
+
+
+
+
+Local Module Symbols:
+
+DEEXO				= 0000000A
+EXO_CONTINUE			= 00000063
+EXO_GET4BITS			= 00000020
+EXO_GETBIT			= 000000BA
+EXO_GETBITS			= 000000AC
+EXO_GETINDEX			= 0000004F
+EXO_GETPAIR			= 00000093
+EXO_GETTINGBITS			= 000000AF
+EXO_GOFORIT			= 0000007C
+EXO_INITBITS			= 00000014
+EXO_LITERALCOPY			= 00000044
+EXO_LITERALSEQ			= 00000043
+EXO_MAINLOOP			= 00000046
+EXO_MAPBASEBITS			= 000000C6
+EXO_NODE1			= 0000001E
+EXO_SETBIT			= 00000030
+
+
+Global Module Symbols:
+
+CPC_UNEXO			= 00000000
+

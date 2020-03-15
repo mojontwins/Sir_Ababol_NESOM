@@ -1,0 +1,21 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                               'cpc_PutSpTr0.sym'
+
+
+
+
+Local Module Symbols:
+
+LOOP_ALTO_2T			= 00000002
+LOOP_ANCHO_2T			= 00000004
+PON_BUFFER_DER_2		= 0000001C
+SALTO_LINEAT			= 00000025
+SIG_PIXN_DER_2			= 00000010
+
+
+Global Module Symbols:
+
+ANCHOT				= 00000002
+CPC_PUTSPTR0			= 00000000
+SUMA_SIGUIENTE_LINEAT		= 00000025
+

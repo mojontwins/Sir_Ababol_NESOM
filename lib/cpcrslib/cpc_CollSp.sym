@@ -1,0 +1,23 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                                 'cpc_CollSp.sym'
+
+
+
+
+Local Module Symbols:
+
+C1				= 00000062
+C2				= 00000077
+COMPROBAR			= 00000067
+NO_COLISION			= 0000004A
+SPR1X				= 0000007C
+SPR1Y				= 0000007D
+SPR2X				= 0000007E
+SPR2Y				= 0000007F
+TOCADO				= 0000004D
+
+
+Global Module Symbols:
+
+CPC_COLLSP			= 00000000
+

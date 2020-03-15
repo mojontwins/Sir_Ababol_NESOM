@@ -1,0 +1,18 @@
+Z80 Module Assembler 1.1.19 (03.11.2012), (c) InterLogic 1993-2009, Paulo Custodio 2011-2012     Sun Sep 09 16:28:18 2018
+Page 001                                                                                                 'cpc_UpdScr.sym'
+
+
+
+
+Local Module Symbols:
+
+BUCLE_CPC_UPDSCR		= 00000004
+POSICIONAR_SUPERBUFFER		= 00000012
+POSICIONAR_TILE			= 00000025
+TRANSFERIR_MAP_SBUFFER		= 00000040
+
+
+Global Module Symbols:
+
+CPC_UPDSCR			= 00000000
+
